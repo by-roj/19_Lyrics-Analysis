@@ -1,35 +1,34 @@
-# Lyrics-Analysis
-시대별 가사 변화 양상을 분석하고 Web을 통해 시각화한 프로젝트입니다
+# Lyrics Analysis
+Analyzing changes in song lyrics over time and visualize on the web
 
 <br>
 
-### 🚩 *Goal*
+### ◻ *Goal*
 
-- 시대별로 유행했던 노래의 가사를 당시 시대상과 연관지어 분석
+- Analyzing the song lyrics that were popular in relation to the period
 
-  → 시대별 가사 변화 양상 및 각 시대별 가사 특징을 Web으로 interactive하게 구현
+  → Implementing the changes and characteristics of song lyrics by period on the web interactively
 
   <br>
 
-  #### 💡 *Step*
+  #### *Step*
 
-  ​	1. 다양한 기준으로 구분해 시대별 가사 양상 분석
-  
-   	2. 분석 결과를 차트, wordcloud 등 다양한 형태로 시각화
-   	3. Web 상에 분석 결과 interactive하게 구현
-
-<br>
-
-### 📁 *Data Used*
-
-- Bugs : 55년간(1964~2018) 차트 연간 1-100위
-- Billboard : 51년간(1965-2015) 차트 연간 1-100위
+  ​	1. Analyzing of song lyrics by period by dividing them into various criteria
+  	2. Visualizing the analysis results in various forms, including chars, wordcloud, etc
+  	3. Implemnting the analysis results on the web interactively
 
 <br>
 
-### 🔑 *Tech/Framework Used*
+### ◻ *Data Used*
 
-(참여한 과정 : ✔)
+- Bugs : #1-100 per year on the chart for 55 years (1964~2018)
+- Billboard : #1-100 per year on the chart for 51 years (1965-2015)
+
+<br>
+
+### ◻ *Tech/Framework Used*
+
+(Participated: ✔)
 
 - Crawling
   - Selenium ✔
